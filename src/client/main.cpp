@@ -13,6 +13,7 @@
 #include <boost/program_options/parsers.hpp>
 #include <boost/program_options/variables_map.hpp>
 
+#include <defines.hpp>
 #include <zmqpp/zmqpp.hpp>
 
 #ifndef BUILD_CLIENT_NAME

@@ -10,6 +10,7 @@
 #include <boost/test/unit_test.hpp>
 #include <zmq.h>
 #include <zmqpp/zmqpp.hpp>
+#include <defines.hpp>
 
 BOOST_AUTO_TEST_SUITE( sanity )
 

@@ -4,6 +4,7 @@
  */
 
 #include "zmqpp.hpp"
+#include "defines.hpp"
 
 namespace zmqpp
 {
